@@ -1,0 +1,41 @@
+/* General Styles */
+body{
+    font-family:Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
+#rot{
+    transform:rotate(20deg);
+}
+#grad1{
+    height:50px;
+    background-color:rgb(39, 33, 33);
+    background-image:radial-gradient(rgb(19, 21, 153),rgb(21, 219, 233),rgb(222, 225, 228));
+}
+#grad2{
+    height:50px;
+    background-color: red;
+    background-image: linear-gradient(rgb(100, 4, 57),rgb(180, 62, 117));
+}
+nav a{
+    text-decoration: none;
+    color: blueviolet;
+}
+nav a:hover{
+    color:aqua
+}
+main{
+   
+    background-color: bisque;
+    padding:50px;
+    text-align: center;
+}
+main h2{
+  color:blue;
+  font-size:36px;
+  margin-bottom: 20px;  
+}
+main p{
+    color:aquamarine;
+    font-size:18px;
+}
