@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>My Restaurant</title>
+    </head>
+<body>
+    <center>
+    <header>
+        <h1>Welcome to my restaurant</h1>
+        <nav>
+            <a href="#ho">Home</a>
+            <a href="#m1">Menu</a>
+            <a href="#c1">Contact Us</a>
+        </nav>
+    </header>
+<main>
+    <div id="grad2">
+        <h2 id="ho">Home</h2>
+        <h2>About Us</h2>
+    <p>Food and beverages is really good. Ambience and service very good. Good parking space. You can plan for regular hangout with family and friends. Mushroom pepper fry, Prawn pepper fry and chicken platter is kind of must have dishes</p>
+    <img src="restaurant.jpg" alt="restaurant image">
+    </div>
+</main> 
+<h2 id="m1">Menu</h2>
+<section>
+    <div class="menu-item">
+        <img src="soup.jpeg" alt="soup">
+        <h3>Soup</h3>
+        <p>Nice and warm on a cold winter's day, this hearty chicken soup gets rave reviews from my family and friends. It goes nicely with fresh-baked biscuits.</p>
+    </div>
+    <div class="menu-item">
+        <img src="pasta.jpeg" alt="pasta">
+        <h3>Pasta</h3>
+        <p>Pasta can contribute to a good mood and the reason is all in the brain. A good pasta dish is the king of the table and a gratification for the palate</p>
+    </div>
+    <div class="menu-item">
+        <img src="burger.jpg" alt="burger">
+        <h3>Burger</h3>
+        <p>A burger is a patty of ground beef grilled and placed between two halves of a bun. Slices of raw onion, lettuce, bacon, mayonnaise, and other ingredients add flavor. Burgers are considered an American food but are popular around the world.</p>
+    </div>
+</section>
+<section>
+    <div id="grad1">
+        <h1 id="c1">Contact us</h1>
+    </div>
+    <div id="rot">
+        <h1>feedback</h1>
+    </div>
+</section>
+<footer>
+    <p>@copyright; 2023 My restaurant</p>
+</footer>
+</center>
+</body>    
+</html>
